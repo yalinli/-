@@ -1,4 +1,0 @@
-IDEA连接mysql又报错！Server returns invalid timezone. Go to 'Advanced' tab and set 'serverTimezone' prope
-1. 链接命令行链接mysql
-2.继续输入 show variables like'%time_zone';  查看当前时区设置，显示 SYSTEM 就是没有设置时区啦。
-3.输入set global time_zone = '+8:00'; 设置为东八区  这里设置之后当前可以使用，系统重启之后还是报错，原因待解决。
