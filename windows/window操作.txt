@@ -1,0 +1,2 @@
+1.设置软件的开机自启动
+	把文件启动图标放置到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp 即可，启动脚本需要更改脚本内启动路径
