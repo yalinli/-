@@ -1,2 +1,6 @@
 1.设置软件的开机自启动
 	把文件启动图标放置到：C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp 即可，启动脚本需要更改脚本内启动路径
+2.获取文件目
+	 tree /f [目录] > [写入到的文件]  得到一个树状的目录文件
+	 dir /s/b [目录] >[写入到文件]  得到所有文件的路径列表
+	 
