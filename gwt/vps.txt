@@ -1,0 +1,1 @@
+trojan一键安装脚本：bash <(curl -s -L https://github.com/V2RaySSR/Trojan/raw/master/Trojan.sh)
